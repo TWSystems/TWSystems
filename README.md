@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Tony William
-- 👀 I’m Graphic Designer and Programmer
-- I develop software for companies and I am an expert in Filemaker with 22 years of experience in its programming
+- 👀 I’m Full Stack Programmer and Artificial Inteligence Specialist
+- I develop software for companies and I am an expert in Filemaker with 28 years of experience in its programming
 - I also have a degree in Graphic Design and I specialize in designing and creating graphical interfaces for software
+- I'm a specialist in artificial and computational intelligence with a postgraduate degree lato sensu
 
 *** this space was created to share projects and knowledge about the above subjects
 
